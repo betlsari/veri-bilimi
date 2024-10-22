@@ -6,3 +6,8 @@ Proje, derin öğrenme (ANN) mimarisi kullanılarak gerçekleştirilmiştir. Pro
 - Kaggle Notebook Linki: [Kaggle Notebook](https://www.kaggle.com/username/project-name)
 - Kullanılan Kütüphaneler: TensorFlow, Pandas, Matplotlib, Seaborn...
 - Model Yapısı: ANN, Conv2D katmanları, Dropout kullanımı...
+
+
+
+
+https://www.kaggle.com/code/betlsari0/notebooke940cc6e03/edit
